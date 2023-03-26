@@ -42,7 +42,7 @@
 
 - __2023.03.18__: Reconfig the data folders, now you can download the checkpoint automatically using `bash scripts/download_models.sh`.
 - __2023.03.18__: We have offically integrate the [GFPGAN](https://github.com/TencentARC/GFPGAN) for face enhancement, using `python inference.py --enhancer gfpgan` for  better visualization performance.
-- __2023.03.14__: Specify the version of package `joblib` to remove the errors in using `librosa`, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb) is online!
+- __2023.03.14__: Specify the version of package `joblib` to remove the errors in using `librosa`, [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jaykef/SadTalker/blob/main/quick_demo.ipynb) is online!
 &nbsp;&nbsp;&nbsp;&nbsp; <details><summary> Previous Changelogs</summary>
   - 2023.03.06 Solve some bugs in code and errors in installation 
   - 2023.03.03 Release the test code for audio-driven single image animation!
